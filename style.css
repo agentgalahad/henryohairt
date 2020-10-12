@@ -1,0 +1,43 @@
+.henry-app{
+width: 65%;
+margin: auto auto;
+text-align:justify;
+}
+
+.henry-text{
+font-family:'Lora', serif;
+font-size: 14px;
+line-height:1.5;
+}
+
+#henry-blockquote{
+text-transform:lowercase;
+margin:auto auto;
+text-align:justify;
+margin-top:20px;
+width:30%;
+font-size:10px;
+padding:2px;
+font-family:'montserrat';
+outline:1px solid #a1b8aa;
+}
+
+#henry-bq-author{
+background-color:white;
+background-image: -webkit-linear-gradient(left, rgba(205,224,213,1) 0%, rgba(199,222,209,1) 0%, rgba(157,192,171,1) 0%, rgba(137,176,154,1) 52%, rgba(161,184,170,1) 100%);
+text-transform:uppercase;
+font-family:courier new;
+font-size:9px;
+padding:2px;
+margin-top:3px;
+color:#fafafa;
+outline-offset:2px;
+}
+
+.henry-p{
+margin-bottom:5px;
+}
+
+.henry-textapp{
+margin-top:30px;
+}
